@@ -1,8 +1,8 @@
-<h1> Hello, Madhu This   </h1>
-<h1> Hello, world! This Devops Project   </h1>
-<strong> Hellow Ram</strong>
-<h1> Hello Vathalya and Navya </h1>
-<body bgcolor=Gold> </body>
+<h1> Hello  </h1>
+<h1> this is devops project  </h1>
+<strong> hello venky </strong>
+<h1> Hello Vatsalya and Navya </h1>
+<body bgcolor=black> </body>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
 <html>
