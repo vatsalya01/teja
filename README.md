@@ -2,7 +2,7 @@
 <h1> this is devops project  </h1>
 <strong> hello venky </strong>
 <h1> Hello Vatsalya and Navya </h1>
-<body bgcolor=black> </body>
+<body bgcolor=pink> </body>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
 <html>
