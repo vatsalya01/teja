@@ -1,0 +1,5 @@
+n=8
+if n>0:
+  print(n, "is positive number")
+else:
+  print(n, "is negetive number")
